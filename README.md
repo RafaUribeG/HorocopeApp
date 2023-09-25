@@ -3,7 +3,7 @@
 ## Curso Intermedio
 
 <p align="center">
-<img src="https://es.m.wikipedia.org/wiki/Archivo:Android_Studio_Trademark.svg" style="height: 75%; width:75%;"/></p>
+<img src="https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2022/10/android-studio-logo-1.jpg?w=1500&quality=82&strip=all&ssl=1 style="height: 75%; width:75%;"/></p>
 
 Practicando con el curso intermedio de AristiDevs en el cual se utilizarán los siguientes conceptos:
 <br/>
