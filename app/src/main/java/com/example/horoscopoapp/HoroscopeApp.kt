@@ -1,7 +1,7 @@
-package com.example.horoscopoapp.ui
+package com.example.horoscopoapp
 
 import android.app.Application
 import dagger.hilt.android.HiltAndroidApp
 
 @HiltAndroidApp
-class HoroscopoApp : Application()
+class HoroscopeApp : Application()
